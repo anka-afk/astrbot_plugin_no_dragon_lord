@@ -1,6 +1,6 @@
 name: astrbot_plugin_no_dragon_lord
 desc: anka - 禁止机器人抢龙王! 龙王一定要是人类 ✍️✍️✍️✍️✍️✍️✍️✍️ 😭😭😭😭😭😭😭😭 - 请前往设置白名单(默认全部群启用) - 提供分段回复容错设置
 help: 简单启用插件即可
-version: v1.0
+version: v1.1
 author: anka
 repo: https://github.com/anka-afk/astrbot_plugin_no_dragon_lord
